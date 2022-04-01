@@ -1,0 +1,242 @@
+@keyframes epiic-header-call-bubble {
+  0% {
+    transform: translate(0px, 0px);
+  }
+  10% {
+    transform: translate(3px, -7px);
+  }
+  20%,
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+@keyframes epiic-get-items__img-1 {
+  0% {
+    transform: rotate(4deg);
+    transform-origin: top;
+  }
+  100% {
+    transform: rotate(-6deg);
+    transform-origin: top;
+  }
+}
+@keyframes epiic-get-items__img-2 {
+  0% {
+    transform: rotate(5deg);
+  }
+  100% {
+    transform: rotate(-5deg);
+  }
+}
+@keyframes epiic-get-items__img-3 {
+  0% {
+    transform: translate(0px, 2px);
+  }
+  100% {
+    transform: translate(0px, -2px);
+  }
+}
+@keyframes epiic-ready-illustration {
+  0% {
+    transform: scale(1.2) translate(-40%, 0);
+  }
+  10%,
+  90% {
+    transform: scale(1) translate(-50%, 0);
+  }
+  100% {
+    transform: scale(1.2) translate(-40%, 0);
+  }
+}
+
+@keyframes epiic-wedo-items__img {
+  0%,
+  90% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+@keyframes epiic-unlock__img-man {
+  0% {
+    transform: translate(-50%, 8px);
+  }
+  100% {
+    transform: translate(-50%, -8px);
+  }
+}
+@keyframes epiic-unlock__img-line {
+  0% {
+    transform: translate(-50%, 0);
+    width: 68px;
+  }
+  50% {
+    transform: translate(-50%, 0);
+    width: 40px;
+  }
+  100% {
+    transform: translate(-50%, 0);
+    width: 68px;
+  }
+}
+@keyframes how-title__Illustration-left--icon {
+  0%,
+  90% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-10deg);
+  }
+}
+@keyframes how-title__Illustration-right--icon {
+  0%,
+  90% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(10deg);
+  }
+}
+@keyframes epiic-how-inner__img {
+  0%,
+  80% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.2);
+  }
+}
+@keyframes epiic-speak__title--words-left {
+  0% {
+    transform: translate(-5px, 0);
+  }
+  30%,
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+@keyframes epiic-speak__title--words-right {
+  0% {
+    transform: translate(0px, -5px);
+  }
+  30%,
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+@keyframes epiic-talent__img-block {
+  0%,
+  90% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.15);
+  }
+}
+@keyframes epiic-choose__item {
+  0%,
+  90% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.2);
+  }
+}
+@keyframes epiic-grow__img {
+  0% {
+    transform: translate(0, 30px);
+  }
+  100% {
+    transform: translate(0, -30px);
+  }
+}
+@keyframes epiic-grow__rocket--left {
+  0% {
+    transform: translate(0, 20px);
+  }
+  100% {
+    transform: translate(0, -20px);
+  }
+}
+@keyframes epiic-grow__rocket--right {
+  0% {
+    transform: translate(0, -20px);
+  }
+  100% {
+    transform: translate(0, 20px);
+  }
+}
+@keyframes epiic-solution__item {
+  0%,
+  40% {
+    transform: scale(0);
+  }
+  50%,
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes epiic-faq-inner {
+  0% {
+    transform: rotate(5deg);
+  }
+  100% {
+    transform: rotate(-5deg);
+  }
+}
+@keyframes epiic-picing-icon {
+  0%,
+  90% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+@keyframes epiic-message-text {
+  0%,
+  80% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.05);
+  }
+}
+@keyframes epiic-message-pen {
+  0%,
+  80% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(10deg);
+  }
+}
+@keyframes epiic-contacts-links__img {
+  0%,
+  80% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+@keyframes epiic-book-form__img {
+  0%,
+  80% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(0, -10px);
+  }
+}
+@keyframes epiic-need__img {
+  0%,
+  20% {
+    transform: scale(0);
+  }
+  30%,
+  100% {
+    transform: scale(1);
+  }
+}
